@@ -18,4 +18,4 @@ endmodule
 ```
 # Output
 ![image](https://github.com/MEHUL1120/HALF_ADDER/assets/159034708/1e8c779e-f64c-4c42-864a-3287a7acc92e)
-# Result
+
